@@ -1,0 +1,28 @@
+_repo: BrokeThe-Man-without-the-Dime_45412
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45412-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brown, Edwin A.
+    birthdate: 1857
+    deathdate: 1946
+    gutenberg_agent_id: '43270'
+    url: http://www.gutenberg.org/2009/agents/43270
+description: ''
+gutenberg_issued: '2014-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45412'
+  lccn: '13025037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Unemployed -- United States'
+- !lcsh 'Tramps'
+title: '"Broke," The Man Without the Dime'
+url: http://www.gutenberg.org/ebooks/45412
